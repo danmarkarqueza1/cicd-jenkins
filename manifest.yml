@@ -1,5 +1,5 @@
 ---
-application:
+applications:
 - name: cicd-jenkins
   instances: 1
   memory: 800m
